@@ -97,8 +97,7 @@ int main() {
 2. **Define the `Student` Class**
    - **Public Section**
      - **Define the `myMethod` Function**
-       - Print"I am studying in 2nd year" to the console.
-
+       - Print"I am studying in 2nd year"
 3. **Main Function**
    - Create an object `s1` of type `Student`.
    - Call the `myMethod` function on the `s1` object.
